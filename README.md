@@ -23,6 +23,6 @@
 - I made this with the help of python langauge.
 
 ## Reach Me
-- <📧 joshivarunvj5@gmail.com>
-- <https://github.com/Varunvj5>
+1. <📧 joshivarunvj5@gmail.com>
+2. <https://github.com/Varunvj5>
 
