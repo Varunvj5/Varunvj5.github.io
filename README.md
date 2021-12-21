@@ -12,16 +12,16 @@
 ![](/images/myproject.jpg)
 ## My Projects
 
-1. [Pong Game](https://github.com/Varunvj5/ping-pong-game)
+1. [Pong Game 🏓](https://github.com/Varunvj5/ping-pong-game)
 
 - Pong is a table tennis–themed arcade sports video game, featuring simple two-dimensional graphics.
 - I have tried to make this particular game using python.
 
-2. [Digital Clock](https://github.com/Varunvj5/Digital_Clock)
+2. [Digital Clock 📟](https://github.com/Varunvj5/Digital_Clock)
 
 - A digital clock is a type of clock that displays the time digitally (i.e. in numerals or other symbols), as opposed to an analogue clock. 
 - I made this with the help of python langauge.
 ---
 ## Reach Me
-<joshivarunvj5@gmail.com>
+<📧 joshivarunvj5@gmail.com>
 ***
