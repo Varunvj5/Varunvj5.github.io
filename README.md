@@ -12,7 +12,7 @@
 ![](/images/myproject.jpg)
 ## My Projects
 
-1. [Pong game](https://github.com/Varunvj5/ping-pong-game)
+1. [Pong Game](https://github.com/Varunvj5/ping-pong-game)
 
 - Pong is a table tennis–themed arcade sports video game, featuring simple two-dimensional graphics.
 - I have tried to make this particular game using python.
