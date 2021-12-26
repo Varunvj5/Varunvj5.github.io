@@ -28,6 +28,13 @@
 - Python here comes as its backend program.
 - Tkinter library has been used as GUI toolkit.
 
+3. [Calculator 🧮](https://github.com/Varunvj5/calculator)
+
+- Since the advent of calculators our life has been simplified.
+- So, here I present you with a basic calculator which you can use day in & day out to make your life less complex.
+- As usual the parent language used is python.
+- The GUI help has been provided by the tkinter library
+
 ## Reach Me
 <📧joshivarunvj5@gmail.com>
 
