@@ -1,7 +1,6 @@
 # Varun Joshi 
 ---
-![](/images/aboutme.png)
-## About Me
+![](/images/new_aboutme.jpg)
 
 - I live in Delhi.
 - I am a second year college student.
@@ -10,9 +9,9 @@
 - I have a keen interest in Data Science and want to explore more in this domain.
 - I am also looking forward to collaborate on open source.
 - In my free time, I like to play football.
+---
 
-![](/images/myproject.jpg)
-## My Projects
+![](/images/new_myprojects.jpg)
 
 1. [Pong Game 🏓](https://github.com/Varunvj5/ping-pong-game)
 
@@ -34,7 +33,9 @@
 - So, here I present you with a basic calculator which you can use day in & day out to make your life less complex.
 - As usual the parent language used is python.
 - The GUI help has been provided by the tkinter library
+---
 
-## Reach Me
+![](/images/new_reachme.jpg)
+
 <📧joshivarunvj5@gmail.com>
 
