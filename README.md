@@ -32,7 +32,7 @@
 - Since the advent of calculators our life has been simplified.
 - So, here I present you with a basic calculator which you can use day in & day out to make your life less complex.
 - As usual the parent language used is python.
-- The GUI help has been provided by the tkinter library
+- The GUI help has been provided by the tkinter library.
 
 
 ![](/images/new_reachme.jpg)
