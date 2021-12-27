@@ -34,6 +34,13 @@
 - As usual the parent language used is python.
 - The GUI help has been provided by the tkinter library.
 
+4. [Tic Tac Toe ✔️❌](https://github.com/Varunvj5/Tic-tac-toe)
+
+- Here I have got another game for you to reminisce your childhood.
+- Try this most cherished game in your pass time with your friends and family.
+- Our beloved python is serving at its backend.
+- The libraries which have come forward to help us in this game is pygame and numpy.
+
 
 ![](/images/new_reachme.jpg)
 
