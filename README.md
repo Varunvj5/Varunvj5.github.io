@@ -16,7 +16,7 @@
 
 ![](/images/new_myprojects.jpg)
 
-1.  [Pong Game 🏓](https://github.com/Varunvj5/ping-pong-game)
+#  [Pong Game 🏓](https://github.com/Varunvj5/ping-pong-game)
 
 - Pong is a table tennis–themed arcade sports video game, featuring simple two-dimensional graphics.
 - And we all have played this classic arcade game atleast once in our childhood, haven't we? 
@@ -24,7 +24,7 @@
 - I have used Turtle library to create this game's graphics.
 
 
-2.  [Digital Clock 📟](https://github.com/Varunvj5/Digital_Clock)
+#  [Digital Clock 📟](https://github.com/Varunvj5/Digital_Clock)
 
 - A digital clock is a type of clock that displays the time digitally (i.e. in numerals or other symbols), as opposed to an analogue clock. 
 - Later in the future I will be modifying this clock to also function as an alarm.
@@ -32,7 +32,7 @@
 - Tkinter library has been used as GUI toolkit.
 
 
-3.  [Calculator 🧮](https://github.com/Varunvj5/calculator)
+#  [Calculator 🧮](https://github.com/Varunvj5/calculator)
 
 - Since the advent of calculators our life has been simplified.
 - So, here I present you with a basic calculator which you can use day in & day out to make your life less complex.
@@ -40,7 +40,7 @@
 - The GUI help has been provided by the tkinter library.
 
 
-4.  [Tic Tac Toe ✔️❌](https://github.com/Varunvj5/Tic-tac-toe)
+#  [Tic Tac Toe ✔️❌](https://github.com/Varunvj5/Tic-tac-toe)
 
 - Here I have got another game for you to reminisce your childhood.
 - Try this most cherished game in your pass time with your friends and family.
@@ -52,5 +52,5 @@
 ![](/images/new_reachme.jpg)
 
 
-<📧joshivarunvj5@gmail.com >
+<📧joshivarunvj5@gmail.com>
 
